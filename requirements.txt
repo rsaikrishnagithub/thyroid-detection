@@ -1,5 +1,4 @@
 gunicorn==19.9.0
-itsdangerous==1.1.0
 numpy>=1.9.2
 spicy>=0.15.1
 scikit-learn>=0.18
@@ -27,8 +26,6 @@ pyasn1==0.4.5
 pyasn1-modules==0.2.4
 pylint==2.4.4
 requests==2.21.0
-rsa==4.0
-setuptools==40.6.2
 six==1.12.0
 SQLAlchemy==1.2.18
 typed-ast==1.4.0
